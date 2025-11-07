@@ -12,13 +12,14 @@ The system provides confidence levels, disease details, and suggested remedies, 
 ✅ Streamlit-based web interface for easy, real-time predictions
 ✅ Automatic image enhancement (brightness & contrast) for better accuracy
 
-🧩 Tech Stack
-Component	Technology
-Model	ResNet50 (PyTorch)
-Frontend	Streamlit
-Dataset	PlantVillage
-Image Processing	Pillow (PIL), TorchVision
-Metrics	Accuracy, Precision, Recall, F1-Score
+| Component            | Technology                            |
+| -------------------- | ------------------------------------- |
+| **Model**            | ResNet50 (PyTorch)                    |
+| **Frontend**         | Streamlit                             |
+| **Dataset**          | PlantVillage                          |
+| **Image Processing** | Pillow (PIL), TorchVision             |
+| **Metrics**          | Accuracy, Precision, Recall, F1-Score |
+
 ⚙️ Setup Instructions
 1️⃣ Clone this repository
 git clone https://github.com/Siddharth3710/Plant-Disease-Detection-Using-CNN-Model.git
